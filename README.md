@@ -12,3 +12,7 @@
 ---
 
 ![ProtoTyping](https://github.com/Boopathy133/CoderOne-Project-1/blob/c6111ae838d26ba5a95cb6ba235d4f7204a1c05d/Dash%20Board/DashBoard.png)
+
+
+## Design Link
+[Link in Figma](https://www.figma.com/design/4rIWnwwXjKMff9x9aOG4Y1/Dashboard?node-id=1-2&t=1MXxFu1kPlAnSv94-1)
